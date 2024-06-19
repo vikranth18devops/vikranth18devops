@@ -1,5 +1,5 @@
 <br/>
-<h3 align="center" >I'm Rahul Dudka! 👋 A developing developer.</h3>
+<h3 align="center" >Vikranth Sunkarpally 👋 A DevSecOps Engineer</h3>
 <br/>
 
 
