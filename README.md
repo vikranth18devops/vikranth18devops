@@ -7,7 +7,6 @@
 <hr/>
 
 ## 💫 About me:
-<img align="right"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fdevops&psig=AOvVaw0qkgub2yF-nNb738wYazeK&ust=1718907798226000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDj1-Ck6IYDFQAAAAAdAAAAABAE" width="50%" margin="-500px 0 0 0"/>
 
 - 🌱 Currently Learning : Terraform | ReactJS | Azure/AWS Cloud and DevSecOps
  
